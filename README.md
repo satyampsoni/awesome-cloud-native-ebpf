@@ -31,14 +31,6 @@ eBPF is transforming cloud-native systems, enabling high-performance networking,
 
 ---
 
-## Community & Engagement Goals
-
-- Reach **500+ GitHub stars** by the end of the fellowship.
-- Build an active base of **50+ contributors**.
-- Maintain **regular updates** with talks, blogs, tutorials, and use cases.
-
----
-
 ## Contributing
 
 Contributions are welcome! You can help by:
